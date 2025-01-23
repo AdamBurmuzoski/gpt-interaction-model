@@ -66,3 +66,9 @@ The **GPT-4 Interaction Model** is a Python-based application that integrates mu
 4. Run the script:
    pip install openai sqlite3
 5. Use the Entry Field to enter a topic and click Submit to start querying GPT-4.
+
+---
+
+## License
+
+© Adam Burmuzoski. All rights reserved.
